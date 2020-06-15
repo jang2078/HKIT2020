@@ -4,16 +4,31 @@
 * 목표 시스템을 정하고, 그에 해당하는 환경을 분석해 보자.
   - 목표 시스템 : [내용 채우기]
   - 환경
-    - 개발 언어 : Django
-    - 개발 인원 및 기간 : 2020.06.15 / 1인 
-    - 개발 HW 사양 : [내용 채우기]
+    - 개발 언어 : Django, flask. HTML5, CSS3, python
+    - 개발 인원 및 기간 : 개발 인원: 1명 / 개발 기간: 2주
+    - 개발 HW 사양 : 프로세서: Inter(R), Pentium(R) CPU G4400 @ 3.30GHz 3.30 GHz
+                    메모리(RAM): 8.00GB
 
 ## 1.2 개발 도구들의 역할에 대한 파악도 [p.7]
 * 목표 시스템 개발에 활용한 도구들을 나열하고 역할에 설명해 보자.
 ```
-  - [내용 채우기]
-  -
-  -
+  - Eclipse
+IBM 이클립스 재단
+MS-Windows Linux OSX Solaris AIX
+Java C C++ PHP JSP 외 다수
+Eclipse Public License
+
+  - Visual Studio Code
+Microsoft
+MS-Windows MacOS Linux
+C++ C# Dockerfile Go HTML Typescript PHP 외 다수
+MIT
+
+  - JDeveloper 오라클
+MS-Windows Linux Unix
+Java PHP SQL 외 다수
+GPL, 기타
+
 ```
 ## 1.3 형상관리 지침의 이해와 환경 구축 능력 [p.22]
 * 형상관리(SCM)의 정의를 설명해 보자.
