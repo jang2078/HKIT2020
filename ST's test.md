@@ -2,7 +2,7 @@
 
 ## 1.1 목표 시스템의 환경 요구 사항에 대한 분석 능력 [p.5]
 * 목표 시스템을 정하고, 그에 해당하는 환경을 분석해 보자.
-  - 목표 시스템 : [내용 채우기]
+  - 목표 시스템 : tinyhealthshop 사이트 만들기
   - 환경
     - 개발 언어 : Django, flask. HTML5, CSS3, python
     - 개발 인원 및 기간 : 개발 인원: 1명 / 개발 기간: 2주
@@ -32,7 +32,7 @@ GPL, 기타
 ```
 ## 1.3 형상관리 지침의 이해와 환경 구축 능력 [p.22]
 * 형상관리(SCM)의 정의를 설명해 보자.
-```
+``` 소프트웨어 개발 및 유지보수 과정에서 발생하는 소스코드, 문서 등 각종 결과물(형상)에 대한 변견사항을 체계적으로 관리하고 제어하기 위한 활동으로 SVN이나 Git같은 버전 관리 시스템을 이용하는 것을 일컫는다. 
 [내용 채우기]
 ```
 
@@ -40,16 +40,7 @@ GPL, 기타
 ```console
 [본인 화면 복사]
 [샘플]
-hkit00@ubuntu:~/tinypetshop$ git config --list
-core.repositoryformatversion=0
-core.filemode=true
-core.bare=false
-core.logallrefupdates=true
-remote.origin.url=https://github.com/luibelstudy/tinypetshop.git
-remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
-branch.master.remote=origin
-branch.master.merge=refs/heads/master
-hkit00@ubuntu:~/tinypetshop$
+root@test-server: /# https://yhjang1028.gitbook.io/kaggle/
 ```
 
 
